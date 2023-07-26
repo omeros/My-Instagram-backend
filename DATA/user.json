@@ -1,0 +1,139 @@
+[
+  {
+    "username": "🎀 malina.s 🎀",
+    "password": "$2b$10$P2ha9WUeOn1jH.jQo/EvbOMBNipzSUSE25c/ramUHhJfo4dCdyjom",
+    "fullname": " malina scarlett ",
+    "bio" : "Public Figure",
+    "imgUrl": "https://res.cloudinary.com/omerphoto/image/upload/v1616845537/Faces/malina1_nzt848.jpg",
+    "createdAt": 123543452,
+    "following": [
+      {
+        "_id": "u106",
+        "fullname": "Dob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u105",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "savedPostIds": ["s104", "s111", "s123"]
+   },
+    {
+    "username": "🌳Rick Redding.9🌳",
+    "password": "$2b$10$P2ha9WUeOn1jH.jQo/EvbOMBNipzSUSE25c/ramUHhJfo4dCdyjom",
+    "fullname": " Rick Redding ",
+    "bio" : "American Racing Team Co-Owner",
+    "imgUrl":  "https://images.pexels.com/photos/4348277/pexels-photo-4348277.jpeg?auto=compress&cs=tinysrgb&h=350&w=860" ,
+    "createdAt": 123543452,
+    "following": [
+      {
+        "_id": "u106",
+        "fullname": "Dob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u150",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u151",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u152",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u153",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u154",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u155",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u156",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u157",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u158",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      },
+      {
+        "_id": "u159",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "savedPostIds": ["s104", "s111", "s123"]
+   },
+  {
+      "username": " victoria_o ",
+    "password": "$2b$10$P2ha9WUeOn1jH.jQo/EvbOMBNipzSUSE25c/ramUHhJfo4dCdyjom",
+    "fullname": "victoria ogai",
+    "bio" : "🍀 Architect & Interior design 🍀",
+    "imgUrl": "https://res.cloudinary.com/omerphoto/image/upload/v1616846141/Faces/victoria1_ngn4hn.jpg",
+    "createdAt": 123543452,
+    "following": [
+      {
+        "_id": "u106",
+        "fullname": "Dob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u105",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "savedPostIds": ["s104", "s111", "s123"]
+   },
+  {
+    "username": " Charles.g ",
+    "password": "$2b$10$P2ha9WUeOn1jH.jQo/EvbOMBNipzSUSE25c/ramUHhJfo4dCdyjom",
+    "fullname": "Charles Grashow",
+    "bio" : "Biological engineer 😉 ",
+    "imgUrl": "https://res.cloudinary.com/omerphoto/image/upload/v1616845142/Faces/charles_ed8c5v.jpg",
+    "createdAt": 123543452,
+    "following": [
+      {
+        "_id": "u106",
+        "fullname": "Dob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u105",
+        "fullname": "Bob",
+        "imgUrl": "http://some-img"
+      }
+    ],
+    "savedPostIds": ["s104", "s111", "s123"]
+   }
+]
